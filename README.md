@@ -1,0 +1,2 @@
+# crud
+CREATE, READ, UPDATE e DELETE
